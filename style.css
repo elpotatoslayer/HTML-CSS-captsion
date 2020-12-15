@@ -128,7 +128,7 @@
   border-radius: 5px;
 }
 
-footer {
+.footer {
   background-color: black;
 }
 
@@ -136,6 +136,23 @@ footer {
   border-radius: 50%;
   border: 1px solid rgb(255, 255, 255);
   width: 60px;
+}
+
+.last-footer {
+  text-align: center;
+}
+
+.last-footer button {
+  background-color: #6a7279;
+  border: none;
+}
+
+.sub_1 {
+  width: 34%;
+}
+
+footer {
+  background-color: #333333;
 }
 
 .last-icons {
@@ -192,6 +209,15 @@ footer {
     display: flex;
     width: 350px;
     justify-content: space-between;
+  }
+  
+  .l_f {
+    display: flex;
+  }
+
+  .sub_1 button{
+    padding: 20px;
+    width: 100%;
   }
 }
 
