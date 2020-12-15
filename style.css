@@ -152,7 +152,7 @@
 }
 
 footer {
-  background-color: #333333;
+  background-color: #333;
 }
 
 .last-icons {
@@ -210,12 +210,12 @@ footer {
     width: 350px;
     justify-content: space-between;
   }
-  
+
   .l_f {
     display: flex;
   }
 
-  .sub_1 button{
+  .sub_1 button {
     padding: 20px;
     width: 100%;
   }
