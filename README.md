@@ -12,9 +12,12 @@ This project has 3 pages, namely: home page, results page, and details page. It 
 - Font awesome icons
 - Bootstrap
 
+## Loom video
+Click [Here](https://www.loom.com/share/5dc8875f01c04416a1313c2d1c924eb5)
+
 ## live Demo
 
-Click! [Here](https://raw.githack.com/sempermort/NewyorkTimes/Developing/Index.html)
+Click! [Here](https://raw.githack.com/Ralph-1/HTML-CSS-captsion/real-estate-site/index.html)
 
 
 ## Authors
