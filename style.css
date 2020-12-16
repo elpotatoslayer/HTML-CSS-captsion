@@ -176,6 +176,10 @@ footer {
     background-color: #d6584a;
   }
 
+  .nav-icons-2 {
+    height: 39px;
+  }
+
   .footer-1-details {
     display: flex;
     justify-content: space-between;
